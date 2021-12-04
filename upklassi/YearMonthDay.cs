@@ -19,7 +19,7 @@ namespace obwee
 
         public YearMonthDay(string stroka)
         {
-            string[] mas = stroka.Split(".");
+            string[] mas = stroka.Split('.');
             this.day = Convert.ToInt32(mas[0]);
             this.month = Convert.ToInt32(mas[1]);
             this.year = Convert.ToInt32(mas[2]);
