@@ -17,6 +17,7 @@ namespace lr1
             Console.WriteLine("Среднее геометрическое = " + z2.average());
             Console.WriteLine("Кол-во цифр в сумме чисел = " + z2.countOfNumbers());
             Console.WriteLine("\n\nЛР2");
+            Console.WriteLine("qeqweqwe");
             LR2[] lr2 = new LR2[2];
             lr2[0] = new LR2();
             lr2[0].setKuda("Бразилия");
